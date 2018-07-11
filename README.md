@@ -1,0 +1,3 @@
+# numeronymize
+
+Get numeronym
